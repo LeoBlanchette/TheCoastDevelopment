@@ -1,0 +1,3 @@
+[submodule "Assets/PuggosWorldSDK"]
+	path = Assets/PuggosWorldSDK
+	url = https://github.com/LeoBlanchette/PuggosWorldSDK
